@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores the relationship between NFL Combine movement patterns and wide receiver separation during regular-season NFL games.
+This project explores the relationship between NFL Combine movement patterns and wide receiver separation during regular season NFL games.
 
 The objective is to investigate whether athletic movement characteristics observed during Combine testing can provide insights into a wide receiver's ability to create separation on the football field.
 
@@ -10,8 +10,8 @@ The objective is to investigate whether athletic movement characteristics observ
 
 - Analyze NFL Combine movement data.
 - Explore wide receiver separation using NFL player tracking data.
-- Investigate potential connections between athletic movement and on-field performance.
-- Develop data-driven insights for football player evaluation.
+- Investigate potential connections between athletic movement and on field performance.
+- Develop data driven insights for football player evaluation.
 
 ## Methodology
 
