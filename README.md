@@ -28,6 +28,7 @@ The analysis investigates how these two dimensions of athletic performance may b
 - Pandas
 - NumPy
 - Matplotlib / Seaborn (where used)
+- sklearn
 - Kaggle Notebooks
 - NFL Big Data Bowl datasets
 
@@ -45,4 +46,4 @@ Ali Dara
 
 ---
 
-This project is part of my exploration of data science and sports analytics, focusing on connecting player tracking data with real-world football performance.
+This project is part of my exploration of data science and sports analytics, focusing on connecting player tracking data with real world football performance.
