@@ -32,9 +32,9 @@ The analysis investigates how these two dimensions of athletic performance may b
 - Kaggle Notebooks
 - NFL Big Data Bowl datasets
 
-## Project Notebook
+## Project Writeup
 
-[View the complete Kaggle Notebook](https://www.kaggle.com/code/alidara/combine-movement-and-wr-separation)
+[View the complete Kaggle Writeup](https://www.kaggle.com/competitions/nfl-big-data-bowl-2027/writeups/new-writeup-1795068946159)
 
 ## Competition
 
